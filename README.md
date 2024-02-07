@@ -1,4 +1,4 @@
-ii# Project: Lemon live site namaken
+# Project: Lemon live site namaken
 
 ## Beschrijving
 Lemonlive is een site die we moeten namaken als eindproject voor het vak html en css
